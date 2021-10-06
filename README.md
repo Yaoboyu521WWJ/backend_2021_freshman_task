@@ -8,3 +8,5 @@
 4. 提交 Pull request
 
 更多关于提交 PR 的教程：[github上pr提交步骤](https://zhuanlan.zhihu.com/p/342310539)
+
+#### 代码将会进行查重~
